@@ -1,7 +1,7 @@
 # Pagination
 
 ### Overview
-Pagination
+Pagination project which fetches lists of github followers which then displays ten(10) followers. This is pagination on the front-end as against pagination on the server.
 
 ### How to start
 
